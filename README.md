@@ -2,6 +2,8 @@
 # This is a BMICalculator in python
 import time
 
+import time
+
 def user_input(Input):
     while True:
         try:
@@ -46,4 +48,5 @@ def enter_again():
 
 print("BMICalculator by Faisal!")
 BMICalculator()
+enter_again()
 enter_again()
